@@ -12,7 +12,7 @@ body{
     margin: 0;
 }
 .sidenav{
-    background-color: black;
+    background-color:yellow;
     position: absolute;
     height: 100vh;
     padding: 0 5px;

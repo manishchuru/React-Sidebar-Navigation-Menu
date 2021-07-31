@@ -1,0 +1,27 @@
+
+
+
+
+
+
+/* hhhh csss */
+.navbar{
+    background-color: black;
+
+    height: 75px;
+    width: 100%;
+}
+.menu-bars{
+    background-color: none;
+    margin-left: 2rem;
+    font-size: 2rem;
+}
+.nav-menu{
+   background-color: black;
+   width: 250px;
+   height: 100vh;
+}
+.main{
+    text-align: center;
+    
+}
